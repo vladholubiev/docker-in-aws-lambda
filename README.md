@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Read this blog post on Medium for details: []()
+  [Read this blog post on Medium for details: How Did I “Hack” AWS Lambda to Run Docker Containers](https://medium.com/@vladholubiev/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b)
 </p>
 
 

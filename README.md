@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shelf.io/">
-    <img alt="Docker in Lambda" src="https://cdn-images-1.medium.com/max/2000/1*BgGp8L5W7SWeoT_tAo9zxA.png" width="600">
+    <img alt="Docker in Lambda" src="https://cdn-images-1.medium.com/max/2000/1*BgGp8L5W7SWeoT_tAo9zxA.png" width="800">
   </a>
 </p>
 

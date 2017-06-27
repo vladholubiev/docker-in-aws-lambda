@@ -50,3 +50,7 @@ python udocker setup --execmode=F1 ubuntu
 # Run it!
 python udocker run ubuntu cat /etc/os-release
 ```
+
+## Similar Projects
+
+Check out a bit more sophisticated project based on same ideas - [SCAR](https://github.com/grycap/scar). It wraps abovementioned commands into a framework shell, but not only.
